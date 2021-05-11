@@ -11,7 +11,7 @@ The names are then printed with their score.
 The player with the least points at the end of the game will the receive a punishment that can't be denied.
 
 
-[Software Demo Video]
+[Software Demo Video] https://www.youtube.com/watch?v=sNa-ikeF3fA
 
 # Development Environment
 
